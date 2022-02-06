@@ -1,0 +1,22 @@
+.timeParagraph{
+    font-size: 25px;
+    margin: 5% 20% 0% 42%;
+}
+table{
+    margin: 1% 5% 0% 1%;
+}
+td{
+    padding-left: 20px;
+}
+.topPagesParagraph{
+    font-size: 25px;
+    margin: 4% 20% 0% 39%;
+}
+.allPagesParagraph{
+    font-size:25px;
+    margin: 4% 20% 0% 42%;
+}
+.url-td{
+    width:80%;
+    overflow: hidden;
+}
